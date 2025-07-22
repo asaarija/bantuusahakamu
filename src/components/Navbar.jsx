@@ -51,7 +51,7 @@ const Navbar = () => {
           <nav
             className={`${
               isOpen ? "block" : "hidden"
-            } md:hidden absolute bg-neutral-50 w-full py-5 px-4 mt-2 border-b-4`}
+            } md:hidden absolute bg-neutral-50 w-full py-5 px-4 top-17 border-b-4`}
           >
             <ul className="">
               {NAVBAR.map((link, index) => (
