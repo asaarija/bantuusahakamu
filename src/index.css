@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.word-spacing-1 {
+  word-spacing: 120px;
+}
+.word-spacing-2 {
+  word-spacing: 140px;
+}
